@@ -8,7 +8,7 @@
       <h2 class="text-center mb-4"><?php echo $lng['sobre']; ?></h2>
       
       <div class="card">
-        <div class="card-header bg-dark text-white">
+        <div class="card-header text-black">
           <h4>Sistema de Gestão FATEC Americana</h4>
         </div>
         <div class="card-body">
